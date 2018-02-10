@@ -1,4 +1,8 @@
 # superset-changes
+Here is some documentation on some changes I made to [Apache Superset](https://github.com/apache/incubator-superset). It gives insight on my understanding of React-Redux.
+
+
+
 
 Document going over the changes I made
 
